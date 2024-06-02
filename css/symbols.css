@@ -1,0 +1,50 @@
+body{
+	background-color: lightcoral;
+}
+p{
+	font-size: 50px;
+}
+.p1{
+	background-color: violet;
+	color: pink;
+}
+.p2{
+	font-family: sans-serif;
+}
+.p3{
+	font-family: Georgia, Times, Helvetica sans-serif;
+}
+.p4{
+	font-family: cursive;
+}
+.p5{
+	font-family: monospace;
+}
+.p6{
+font-family: "Pacifico", cursive;
+text-shadow: 2px 2px greenyellow;
+}
+.p7{
+	font-family: "Kablammo" system-ui;
+	font-weight: 900;
+	color: darkred; 
+	text-shadow: 0 0 10px plum;
+}
+.p8{
+	font-family: "Rubik Bubbles" system-ui;
+	color: darkred; 
+	text-shadow: 2px 2px greenyellow;
+}
+.p9{
+	font-family: "Rubik Glitch Pop" system-ui;
+	color: magenta; 
+	text-shadow: 2px -2px greenyellow;
+}
+.p10{
+font-family: "Jacquarda Bastarda 9", serif;
+color: violet;
+}
+.p11{
+font-family: "Protest Revolution", sans-serif;
+color: mediumblue;	
+}

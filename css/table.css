@@ -1,0 +1,18 @@
+body{
+background-color: lightyellow;	
+}
+p{
+	color: lowgreen;
+	font-size: 50px;
+	text-align: center;
+}
+table{
+	border: double 5px purple;
+	color: lowgreen;
+	font-size: 24px;
+	width: 50%;
+}
+th,td{
+	border: solid 2px mistyrose;
+	width: 25%;
+}

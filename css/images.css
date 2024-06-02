@@ -1,0 +1,13 @@
+body{
+	background-color: lightseagreen;
+	background-image: url(https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif?fit=450%2C250&ssl=1);
+background-size: 200px;
+background-repeat: repeat-x;
+}
+p{
+	font-size: 0.8in;
+	background-image: url(https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif?fit=450%2C250&ssl=1);
+	background-size: cover;
+	color: gold;
+	text-align: center;
+}
